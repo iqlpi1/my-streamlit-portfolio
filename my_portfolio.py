@@ -238,7 +238,7 @@ if menu == "🏠 홈":
     col1, col2 = st.columns([1, 2])
     
     with col1:
-        st.image("https://cdn-icons-png.flaticon.com/512/4264/4264699.png", width=200)
+        st.image("https://i.namu.wiki/i/BxdZpyv5ji4VP6iqUInUa7QWrLNBhCSbvOnJhYB0rH0Swmk18sS-hrDUBQf0ZqV7xQSa3qpWY50-x7veh9JffM8PJbHEUYyteILVqFg97mf9ZF5ROAMOZRErpsqKJ_hYejzTZQBAFxrrPIQmcT_2-A.webp", width=150)
         st.markdown("### 김하늘")
         st.markdown("**건양대학교 재난안전소방학과**")
         st.markdown("**3학년 재학중**")
