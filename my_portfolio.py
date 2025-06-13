@@ -238,7 +238,7 @@ if menu == "🏠 홈":
     col1, col2 = st.columns([1, 2])
     
     with col1:
-        st.image("https://png.pngtree.com/png-vector/20210928/ourmid/pngtree-man-face-png-image_3961333.png", width=150)
+        st.image("https://png.pngtree.com/png-vector/20210928/ourmid/pngtree-man-face-png-image_3961333.png", width=250)
         st.markdown("### 김하늘")
         st.markdown("**건양대학교 재난안전소방학과**")
         st.markdown("**3학년 재학중**")
